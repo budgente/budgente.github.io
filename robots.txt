@@ -1,0 +1,10 @@
+User-Agent: *
+Disallow: 
+
+Sitemap: https://budgente.github.io/sitemap.html.gz
+Sitemap: https://budgente.github.io/app/sitemap.html.gz
+Sitemap: https://budgente.github.io/assets/sitemap.html.gz
+Sitemap: https://budgente.github.io/css/sitemap.html.gz
+Sitemap: https://budgente.github.io/includes/sitemap.html.gz
+Sitemap: https://budgente.github.io/item/sitemap.html.gz
+Sitemap: https://budgente.github.io/src/sitemap.html.gz
